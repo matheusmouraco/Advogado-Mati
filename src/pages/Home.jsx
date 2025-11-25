@@ -64,6 +64,9 @@ export default function Home() {
             </a>
           </div>
         </div>
+
+        <meta name="google-site-verification" content="AziCyYpMant0mfZqMFkFTUv-re-yyZA_oMi6GoGG3c4" />
+        
       </header>
 
       <main className="bg-black text-zinc-200 pt-[68px]">
