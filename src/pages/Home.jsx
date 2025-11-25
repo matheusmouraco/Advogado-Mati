@@ -51,6 +51,9 @@ export default function Home() {
            background-position: center;
         }
       `}</style>
+
+              <meta name="google-site-verification" content="AziCyYpMant0mfZqMFkFTUv-re-yyZA_oMi6GoGG3c4" />
+        
       
       <header className="fixed top-0 left-0 right-0 bg-black/80 backdrop-blur-sm shadow-md z-40 border-b border-zinc-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -64,9 +67,6 @@ export default function Home() {
             </a>
           </div>
         </div>
-
-        <meta name="google-site-verification" content="AziCyYpMant0mfZqMFkFTUv-re-yyZA_oMi6GoGG3c4" />
-        
       </header>
 
       <main className="bg-black text-zinc-200 pt-[68px]">
